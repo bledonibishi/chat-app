@@ -71,7 +71,7 @@ git clone https://github.com/bledonibishi/chat-app.git
 cd chat-app
 ```
 
-#### **💪 2️⃣ Start the Application with Docker Compose**
+#### **2️⃣ Start the Application with Docker Compose**
 
 ```bash
 docker-compose up --build -d
