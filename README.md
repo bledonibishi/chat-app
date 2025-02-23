@@ -34,5 +34,5 @@ Ensure you have:
 
 ```bash
 git clone https://github.com/bledonibishi/chat-app.git
-cd solaborate-rtc
+cd chat-app
 ```
