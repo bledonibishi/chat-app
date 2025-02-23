@@ -37,7 +37,7 @@ git clone https://github.com/bledonibishi/chat-app.git
 cd chat-app
 ```
 
-#### ** Start the backend(server)**
+#### **Start the backend(server)**
 
 ```bash
 cd server
@@ -46,7 +46,7 @@ npm start
 
 ```
 
-#### ** Start the frontend(client)**
+#### **Start the frontend(client)**
 
 ```bash
 cd client
@@ -55,7 +55,7 @@ npm start
 
 ```
 
-#### ** 💪 2️⃣ Running with Docker (Fully Containerized Deployment) **
+## **💪 2️⃣ Running with Docker (Fully Containerized Deployment)**
 
 ### **🔹 Prerequisites**
 
@@ -71,7 +71,7 @@ git clone https://github.com/bledonibishi/chat-app.git
 cd chat-app
 ```
 
-#### ** 💪 2️⃣ Start the Application with Docker Compose **
+#### **💪 2️⃣ Start the Application with Docker Compose**
 
 ```bash
 docker-compose up --build -d
